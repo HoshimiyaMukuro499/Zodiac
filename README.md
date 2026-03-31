@@ -3,6 +3,8 @@
 
 欢迎关注：微信公众号 “星宫荧的音乐小站”
 
+### 🛠 Languages
+![Language](https://img.shields.io/github/languages/top/HoshimiyaMukuro499/Zodiac.github.io?color=blue)
 ![Test](https://github-readme-stats.deno.dev/api/top-langs/?username=anuraghazad&layout=compact)
 
 ### 📊 GitHub Stats
