@@ -1,7 +1,7 @@
 # Assignment #1: OOP
 
 *Updated 2026-03-03 11:25 GMT+8*
- *Compiled by <mark>肖云天、生命科学学院</mark> (2026 Spring)*
+ *Compiled by <mark>***,生命科学学院</mark> (2026 Spring)*
 颜色说明:
 <font color='pink'>粉色代表这道题来自于已知的知识点但没能想出正确的思路,查看了题解</font>
 
