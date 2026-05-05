@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "874b677a8c643df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "48479e5308196064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de715ab1f56e21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Afternoon_algebra/task_allocation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "task_allocation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c37d472532959983",
+    "type": "split",
+    "children": [
+      {
+        "id": "16feda6de2351f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98facac7b03b7665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cc02da1f4d9ea4c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1cce44f2b39bfec8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e844a15a93d349f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2bede6ed87f5dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d115483fab06452",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Afternoon_algebra/task_allocation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "task_allocation 的反向链接列表"
+            }
+          },
+          {
+            "id": "339de73651809a57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Afternoon_algebra/task_allocation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "task_allocation 的出链列表"
+            }
+          },
+          {
+            "id": "7989a617c0e56e5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "21c466c8d4632bcd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "5dbb5aef17623451",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Afternoon_algebra/task_allocation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "task_allocation 的大纲"
+            }
+          },
+          {
+            "id": "299badf3f10ec2c1",
+            "type": "leaf",
+            "state": {
+              "type": "version-control-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "version-control-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "2de715ab1f56e21b",
+  "lastOpenFiles": [
+    "test.md",
+    "新建 文本文档.txt",
+    "Afternoon_algebra/README.md",
+    "Afternoon_algebra/task_allocation.md",
+    "Afternoon_algebra/组员分工.md"
+  ]
+}
